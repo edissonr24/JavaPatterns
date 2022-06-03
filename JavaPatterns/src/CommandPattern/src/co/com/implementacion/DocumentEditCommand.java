@@ -1,4 +1,4 @@
-package co.com.implementacion;
+package CommandPattern.src.co.com.implementacion;
 
 public class DocumentEditCommand extends CommandApp {
 
